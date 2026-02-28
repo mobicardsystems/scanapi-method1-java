@@ -1,3 +1,6 @@
+# Payment Card Scan API
+## MobiCard ScanAPI
+
 ## Success Response Format
 
 Both methods return the same success response format when card scanning is successful.
